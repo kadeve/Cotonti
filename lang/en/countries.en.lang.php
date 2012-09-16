@@ -11,6 +11,7 @@ $cot_countries = array(
 	'as' => 'American Samoa',
 	'ad' => 'Andorra',
 	'ao' => 'Angola',
+	'an' => 'Netherlands and Antilles',
 	'ai' => 'Anguilla',
 	'aq' => 'Antarctica',
 	'ag' => 'Antigua and Barbuda',
